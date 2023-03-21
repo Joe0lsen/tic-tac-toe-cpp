@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679385408 source:d:\joe - redirected folders\documents\byui\2023 winter\cse 310-04 applied programming\sprint 5\giraffetutorial\giraffetutorial\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+
